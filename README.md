@@ -17,7 +17,7 @@ Python code for learning Deep Learning. Mostly based on ["Deep Learning"](http:/
 
 ## Upcoming
 
-*  Multilayer Neural Network
+*  Multilayer Perceptrons
 
 ## Author
 
