@@ -2,7 +2,7 @@
 
 Python code for learning Deep Learning. Mostly based on ["Deep Learning"](http://www.deeplearningbook.org/) book.
 
-Notes
+>> [Notes on deep learning (your comments and suggestions are welcome)](https://docs.google.com/document/d/1DhW3LpBa7QRKAB6PhqiPbebEBxW9weuziGZ76az03Kg/edit?usp=sharing)
 
 ## Contents
 
