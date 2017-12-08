@@ -21,5 +21,5 @@ Python code for learning Deep Learning. Mostly based on ["Deep Learning"](http:/
 
 ## Author
 
-Vu Anh / [magizbox](https://github.com/magizbox)
+Vu Anh / [@magizbox](https://github.com/magizbox)
 
