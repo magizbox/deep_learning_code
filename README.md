@@ -2,8 +2,6 @@
 
 Python code for learning Deep Learning. Mostly based on ["Deep Learning"](http://www.deeplearningbook.org/) book.
 
-[Notes on deep learning (vietnamese). Your comments and suggestions are welcome](https://docs.google.com/document/d/1DhW3LpBa7QRKAB6PhqiPbebEBxW9weuziGZ76az03Kg/edit?usp=sharing)
-
 ## Contents
 
 |                               | Link                                                                      |
@@ -13,8 +11,8 @@ Python code for learning Deep Learning. Mostly based on ["Deep Learning"](http:/
 
 ## Requirements
 
-* Python 3.5
-* Pytorch 0.2
+* Python 3.6
+* Pytorch 0.4
 
 
 ## Upcoming
@@ -25,3 +23,4 @@ Python code for learning Deep Learning. Mostly based on ["Deep Learning"](http:/
 
 Vu Anh / [@magizbox](https://github.com/magizbox)
 
+Last Update: August 2018
