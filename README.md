@@ -16,10 +16,6 @@ Python code for learning Deep Learning. Mostly based on ["Deep Learning"](http:/
 * Pytorch 0.4
 
 
-## Upcoming
-
-*  Multilayer Perceptrons
-
 ## Author
 
 Vu Anh / [@magizbox](https://github.com/magizbox)
